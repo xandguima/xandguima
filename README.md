@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, I'am Alexandre Guimarães 👋
 
-<!--
-**xandguima/xandguima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
+I'm a web developer. I'm studying web developer at [RocketSeat](https://www.rocketseat.com.br)
 
-Here are some ideas to get you started:
+#### Current stack
+- ⚡ Main linguage: `Javascript`
+- 🌑 Backend: `Nodejs`
+- ☀️ Frontend: `HTML5` ,`CSS3`, `Javasript`
+- 🎨 Layout Design: `Figma`
+- 📡 Version Code control: `Git & Gitgub`
+- 🔧 Tools: `Vscode`, `Markdown`
+- 🚩 I'm proactive
+- 🚩 I´m mostly active within the 'RocketSeat'
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contacts
+
+- 📧 Email: xan.96@hotmail.com
+- 👤 [Linkedin](https://www.linkedin.com/in/alexandreguimar%C3%A3es-dev/)
