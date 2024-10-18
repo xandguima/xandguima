@@ -21,4 +21,4 @@ I'm a web developer. I'm studying web developer at [RocketSeat](https://www.rock
 #### Contacts
 
 - 📧 Email: devxandeapp@gmail.com
-- 👤 [Linkedin](https://www.linkedin.com/in/alexandreguimar%C3%A3es-dev/)
+- 👤 [Linkedin]([https://www.linkedin.com/in/alexandreguimar%C3%A3es-dev/](https://www.linkedin.com/in/alexandreguimaraes-dev/))
