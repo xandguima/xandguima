@@ -14,9 +14,8 @@ I'm a web developer. I'm studying web developer at [RocketSeat](https://www.rock
 - 🚩 I´m mostly active within the 'RocketSeat'
 
 #### Next steps
-- Reactjs
-- React Native
-- Java
+- PHP/Laravel
+- Phyton/Django
 - Desenvolvimento de IA
 
 #### Contacts
