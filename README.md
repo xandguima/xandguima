@@ -5,7 +5,7 @@ I'm a web developer. I'm studying web developer at [RocketSeat](https://www.rock
 
 #### Current stack
 - ⚡ Main linguage: `Javascript`,`Typescript`
-- 🌑 Backend: `Nodejs`,`Knex.js`,`SQL`,`Docker`,`GCP`,`Express`,`Fastify`
+- 🌑 Backend: `Nodejs`,`Knex.js`,`SQL`,`Docker`,`GCP`,`Express`,`Fastify`, `Prisma`
 - 🧪 Test: `Jest`,`Vitest`,`Cypress`
 - ☀️ Frontend: `HTML5` ,`CSS3`, `Javasript`,`React.js`
 - 🎨 Layout Design: `Figma`
@@ -15,6 +15,7 @@ I'm a web developer. I'm studying web developer at [RocketSeat](https://www.rock
 - 🚩 I´m mostly active within the 'RocketSeat'
 
 #### Next steps
+- Go
 - PHP/Laravel
 - Phyton/Django
 - Desenvolvimento de IA
