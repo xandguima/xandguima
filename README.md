@@ -1,26 +1,38 @@
-### Hi there, I'am Alexandre Guimarães 👋
+### Hi there! I'm Alexandre Guimarães 👋
 
-#### About
-I'm a web developer. I'm studying web developer at [RocketSeat](https://www.rocketseat.com.br) and working at ArtKamizetas Factory as full-stack developer.
+#### About Me
+I'm a Full Stack Developer with a strong focus on efficient and scalable web solutions. I currently work at **Art Kamizetas**, where I independently manage all things tech — from internal tooling and dashboards to e-commerce and digital campaigns.
 
-#### Current stack
-- ⚡ Main linguage: `Javascript`,`Typescript`
-- 🌑 Backend: `Nodejs`,`Knex.js`,`SQL`,`Docker`,`GCP`,`Express`,`Fastify`, `Prisma`
-- 🧪 Test: `Jest`,`Vitest`,`Cypress`
-- ☀️ Frontend: `HTML5` ,`CSS3`, `Javasript`,`React.js`
-- 🎨 Layout Design: `Figma`
-- 📡 Version Code control: `Git & Github`
-- 🔧 Tools: `Vscode`, `Markdown`
-- 🚩 I'm proactive
-- 🚩 I´m mostly active within the 'RocketSeat'
+Although I work across the full stack, I’m most passionate about the **back-end**, where I’ve been deepening my expertise in automation, data structures, and scalable systems.
 
-#### Next steps
-- Go
-- PHP/Laravel
-- Phyton/Django
-- Desenvolvimento de IA
+I'm driven by curiosity, autonomy, and a love for solving real-world problems through technology.
 
-#### Contacts
+#### 🧠 Soft Skills
+- Independent and self-managed
+- Passionate about learning and solving challenges
+- Enthusiastic and proactive
+- Comfortable working both in a team and independently
+- Always exploring and experimenting with new technologies
 
-- 📧 Email: devxandeapp@gmail.com
-- 👤 [Linkedin](https://www.linkedin.com/in/alexandreguimaraes-dev/)
+#### 🚀 Current Stack
+- 💡 **Languages**: `JavaScript`, `TypeScript`
+- 🔙 **Back-end**: `Node.js`, `Express`, `Fastify`, `Knex.js`, `Prisma`, `SQL`, `Supabase`, `Docker`, `GCP`,`Postgres`
+- 🌐 **Front-end**: `HTML5`, `CSS3`, `JavaScript`, `React.js`
+- 🧪 **Testing**: `Jest`, `Vitest`, `Cypress`
+- 🧩 **Tools**: `Figma`, `Git & GitHub`, `VS Code`, `Markdown`, `Google Apps Script`, `Looker Studio`
+
+#### 🔬 What I'm Exploring
+- Experimenting with **MCP Server** for AI integrations – currently testing it with **Ableton Live**
+- Automating sales tracking through dashboards and Supabase
+- Building product showcase pages and campaign landing pages
+
+#### 🎯 Next Steps
+- `Go`
+- `Python/Django`
+- `PHP/Laravel`
+- `Nest.js`
+- AI development and creative integrations
+
+#### 📬 Contact
+- 📧 Email: [devxandeapp@gmail.com](mailto:devxandeapp@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/alexandreguimaraes-dev/)
